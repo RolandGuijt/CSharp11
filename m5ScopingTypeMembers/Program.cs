@@ -14,7 +14,6 @@ struct Coordinate
     public Coordinate()
     {
         X = 0;
-
     }
     public int X { get; set; }
     public int Y { get; set; }
